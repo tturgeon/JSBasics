@@ -4,10 +4,22 @@
   "description": "Introduction to basic Javascript Functions",
   "main": "basics.js",
   "scripts": {
-    "test arrays": "mocha test/arrays/.",
-    "test countString": "mocha test/arrays/countString.test",
-    "test reverseString": "mocha test/arrays/reverseString.test",
-    "test removeDuplicates": "mocha test/arrays/removeDuplicates.test"
+    "test arrays": "mocha test/arrays || echo",
+    "test addEnd": "mocha test/arrays/addEnd.test || echo",
+    "test addFront": "mocha test/arrays/addFront.test || echo",
+    "test chopIt": "mocha test/arrays/chopIt.test || echo",
+    "test copyCat": "mocha test/arrays/copyCat.test || echo",
+    "test countString": "mocha test/arrays/countString.test || echo",
+    "test createArray": "mocha test/arrays/createArray.test || echo",
+    "test evenOdd": "mocha test/arrays/evenOdd.test || echo",
+    "test findTwo": "mocha test/arrays/findTwo.test || echo",
+    "test removeDuplicates": "mocha test/arrays/removeDuplicates.test || echo",
+    "test removeEnd": "mocha test/arrays/removeEnd.test || echo",
+    "test removeFront": "mocha test/arrays/removeFront.test || echo",
+    "test reverseString": "mocha test/arrays/reverseString.test || echo",
+    "test sortObjects": "mocha test/arrays/sortObjects.test || echo",
+    "test sumIt": "mocha test/arrays/sumIt.test || echo",
+    "test timesTen": "mocha test/arrays/timesTen.test || echo"
   },
   "repository": {
     "type": "git",
