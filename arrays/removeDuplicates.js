@@ -1,4 +1,4 @@
-// Write a JavaScript function reverseString to reverse a given string.
+// Write a JavaScript function removeDuplicates that removes duplicate values fom an array.
 
 var removeDuplicates;
 
