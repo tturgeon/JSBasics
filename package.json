@@ -5,7 +5,9 @@
   "main": "basics.js",
   "scripts": {
     "test arrays": "mocha test/arrays/.",
-    "test createArray": "mocha arrays/tests/createArray.test"
+    "test countString": "mocha test/arrays/countString.test",
+    "test reverseString": "mocha test/arrays/reverseString.test",
+    "test removeDuplicates": "mocha test/arrays/removeDuplicates.test"
   },
   "repository": {
     "type": "git",

@@ -38,6 +38,10 @@ If you have correctly completed each of the exercises, they will pop up as green
 9. Even & odd values - evenOdd.js
 10. Sum values - sumIt.js
 11. Multiply by 10 - timesTen.js
+12. Count string - countString.js
+13. Reverse string - reverseString.js
+14. Remove duplicates - removeDuplicates.js
+15. Sort object - sortObject.js
 
 ##Copyright
 
