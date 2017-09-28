@@ -4,7 +4,8 @@
   "description": "Introduction to basic Javascript Functions",
   "main": "basics.js",
   "scripts": {
-    "test": "mocha"
+    "test arrays": "mocha test/arrays/.",
+    "test createArray": "mocha arrays/tests/createArray.test"
   },
   "repository": {
     "type": "git",
@@ -17,7 +18,7 @@
   },
   "homepage": "https://github.com/Montana-Code-School/JSBasics#readme",
   "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.5.2"
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
   }
 }

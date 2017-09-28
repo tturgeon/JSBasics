@@ -4,41 +4,6 @@ var arr, findTwo, pusher, upFront, remover, copyCat, chopIt, sumIt, evenOdd,
   timesTen, animal, findAge, getKeys, changeName, speechMaker, addKey, keyLoop,
   cars, findModels;
 
-// Arrays
-
-// 1. Create the variable arr and assign it an array with the following list of
-// numbers 12, 42, 36, 51, 96
-
-// 2. Create a function called findTwo that takes in the arr array and returns
-// the value at index 2.
-
-// 3. Create a function called pusher that takes in an array and a number and
-// positions the number at the end of the array. Return the new array.
-
-// 4. Create a function called upFront that takes in an array and a number and
-// positions the number in beginning of the array. Return the new array.
-
-// 5. Create a function called remover that takes in an array and removes the
-// value at the end of the array. Return the new array.
-
-// 6. Create a function called copyCat that takes in an array, copies, and
-// returns the second and third index values.
-
-// 7. Create a function called chopIt that takes in an array and two numbers.
-// It deletes the original 3rd index value and inserts the two numbers in it's place.
-
-// 8. Create a function called sumIt that takes in the array and returns the sum
-// of each of the values in the array.
-
-// 9. Create a function called evenOdd that takes in the array and pushes into a
-// new array "even" or "odd" for every value in the array, depending upon
-// whether they are even or odd number values. Return the new array.
-// Hint: Use the modulus operator
-
-// 10. Create a function called timesTen that takes in an array and multiplies
-// each value by 10 and returns the new array.
-// Hint: Use the map method
-
 // Objects
 
 // 1. Create an object called animal. Make sure the animal has the following
