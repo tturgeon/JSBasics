@@ -4,7 +4,7 @@
   "description": "Introduction to basic Javascript Functions",
   "main": "basics.js",
   "scripts": {
-    "test arrays": "mocha test/arrays || echo",
+    "test": "mocha test/arrays || echo",
     "test addEnd": "mocha test/arrays/addEnd.test || echo",
     "test addFront": "mocha test/arrays/addFront.test || echo",
     "test chopIt": "mocha test/arrays/chopIt.test || echo",

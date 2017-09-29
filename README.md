@@ -15,11 +15,10 @@ npm install
 ```
 and when that is finished you can run
 ```
-npm run "test arrays"
-npm run "test objects"
+npm test
 ```
 
-and so on to run the test for the different exercise topics
+to run the test for the different exercise topics
 
 If you have correctly completed each of the exercises, they will pop up as green with a checkmark. Otherwise, you will have red x's.
 
