@@ -20,7 +20,24 @@ npm test
 
 to run the test for the different exercise topics
 
-If you have correctly completed each of the exercises, they will pop up as green with a checkmark. Otherwise, you will have red x's.
+All test are set to pending initially. To enable a test for a specific exercise either change
+
+~~~
+xdescribe()
+~~~
+to
+~~~
+describe()
+~~~
+OR to
+~~~
+describe.only()
+~~~
+in the corresponding .test.js file. The former will still show all test, but enable that one, while the latter will only show that one as enabled.
+
+
+
+If you have correctly completed the exercise, it will pop up as green with a checkmark. Otherwise, you will have red x's.
 
 ## Order Of exercises
 
