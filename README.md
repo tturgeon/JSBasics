@@ -71,6 +71,6 @@ If you have correctly completed the exercise, it will pop up as green with a che
 9. Find species - findSpecies.js
 10. Sort by name - sortByName.js
 
-##Copyright
+## Copyright
 
-(c) Montana Code School, 2016.
+&copy; Montana Code School, 2016.
